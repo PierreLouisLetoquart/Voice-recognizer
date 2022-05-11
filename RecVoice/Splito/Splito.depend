@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652306412 source:c:\users\pilou\documents\projetpiscineavions\code\splito\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<iterator>
+	<vector>
+	<algorithm>
+
